@@ -8,10 +8,11 @@
 5. 스택 Stack
 6. 큐 Queue
 7. 우선순위 큐
-8. 그래프 Graph
-9. 트리 Tree
-10. 맵 Map
-11. 셋 Set
-12. 해시 Hash
-13. 트라이 Trie
-14. B-Tree & B+Tree
+8. 힙 Heap
+9. 그래프 Graph
+10. 트리 Tree
+11. 맵 Map
+12. 셋 Set
+13. 해시 Hash
+14. 트라이 Trie
+15. B-Tree & B+Tree
